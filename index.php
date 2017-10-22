@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->  
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
+<head>
+    <title>Luis Cajigas Martínez | CV</title>
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Luis Cajigas Martínez | CV">
+    <meta name="author" content="Xiaoying Riley at 3rd Wave Media">    
+    <link rel="shortcut icon" href="favicon.ico">  
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,400italic,300italic,300,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <!-- Global CSS -->
+    <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">   
+    <!-- Plugins CSS -->
+    <link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.css">
+    
+    <!-- Theme CSS -->  
+    <link id="theme-style" rel="stylesheet" href="assets/css/styles-6.css">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+  </head> 
+
+  <body>
+    <div class="wrapper">
+        <div class="sidebar-wrapper">
+            <div class="profile-container">
+                <img class="profile img-circle img-responsive" src="assets/images/profile.png" alt="" />
+                <h1 class="name">Luis Cajigas Martínez</h1>
+                <h3 class="tagline">Full Stack Developer/DevOps</h3>
+            </div><!--//profile-container-->
+            
+            <div class="contact-container container-block">
+                <ul class="list-unstyled contact-list">
+                    <li class="email"><i class="fa fa-envelope"></i><a href="mailto: luis@luisinder.me">luis@luisinder.me</a></li>
+                    <li class="website"><i class="fa fa-globe"></i><a href="https://luisinder.me/" target="_blank">luisinder.me</a></li>
+                    <li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://www.linkedin.com/in/luis-cajigas-mart%C3%ADnez-8a440025" target="_blank">Luis Cajigas</a></li>
+                    <li class="github"><i class="fa fa-github"></i><a href="https://github.com/luisinder" target="_blank">github.com/luisinder</a></li>
+                    <li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/luisinder" target="_blank">@luisinder</a></li>
+                </ul>
+            </div><!--//contact-container-->
+            <div class="education-container container-block">
+                <h2 class="container-block-title">Education</h2>
+                <div class="item">
+                    <h4 class="degree">Ingeniería Técnica en Informática de Sistemas</h4>
+                    <h5 class="meta">Universidad Pontificia de Salamanca </h5>
+                    <div class="time">2005 - 2010</div>
+                </div><!--//item-->
+                <div class="item">
+                    <h4 class="degree">Administración de Sistemas Informáticos en Red</h4>
+                    <h5 class="meta">IES Venancio Blanco (Salamanca)</h5>
+                    <div class="time">2012 - 2014</div>
+                </div><!--//item-->
+            </div><!--//education-container-->
+            
+            <div class="languages-container container-block">
+                <h2 class="container-block-title">Languages</h2>
+                <ul class="list-unstyled interests-list">
+                    <li>English <span class="lang-desc">(Professional)</span></li>
+                    <li>Spanish <span class="lang-desc">(Native)</span></li>
+                </ul>
+            </div><!--//interests-->
+            
+            
+        </div><!--//sidebar-wrapper-->
+        
+        <div class="main-wrapper">
+
+            <section class="section summary-section">
+                <h2 class="section-title"><i class="fa fa-user"></i>Career Profile</h2>
+                <div class="summary">
+                    <p>I am a computer scientist who has always loved his profession and everything related to it. I love learning and I have no problem changing technology.</p>
+                </div><!--//summary-->
+            </section><!--//section-->
+            
+            <section class="section experiences-section">
+                <h2 class="section-title"><i class="fa fa-briefcase"></i>Experiences</h2>
+
+                <div class="item">
+                    <div class="meta">
+                        <div class="upper-row">
+                        <h3 class="job-title">Senior Full Stack Developer/SysAdmin</h3>
+                            <div class="time">2017 - Present</div>
+                        </div><!--//upper-row-->
+                        <div class="company">IED Istituto Europeo di Design, Madrid</div>
+                    </div><!--//meta-->
+                    <div class="details">
+                        <p>Front/Back Development.</p>
+                        <p>Sysadmin.</p>
+                    </div><!--//details-->
+                </div><!--//item-->
+
+                <div class="item">
+                    <div class="meta">
+                        <div class="upper-row">
+                            <h3 class="job-title">Senior Full Stack Developer/DevOps</h3>
+                            <div class="time">2016 - 2017</div>
+                        </div><!--//upper-row-->
+                        <div class="company">Muba Online, Madrid</div>
+                    </div><!--//meta-->
+                    <div class="details">
+                        <p>Assembly, configuration, and maintenance of high availability servers for the different webs of the company.</p>
+                        <p>Backend / API development.</p>
+                    </div><!--//details-->
+                </div><!--//item-->
+
+                <div class="item">
+                    <div class="meta">
+                        <div class="upper-row">
+                            <h3 class="job-title">Web Developer/Sysadmin</h3>
+                            <div class="time">2015 - 2016</div>
+                        </div><!--//upper-row-->
+                        <div class="company">Get Glocal S.L, Madrid</div>
+                    </div><!--//meta-->
+                    <div class="details">
+                        <p>Development of the app (Android), web development (Ruby on Rails) and assembly / configuration and maintenance of all servers.</p>
+                    </div><!--//details-->
+                </div><!--//item-->
+                
+                <div class="item">
+                    <div class="meta">
+                        <div class="upper-row">
+                            <h3 class="job-title">Mobile/Web Developer & Sysadmin</h3>
+                            <div class="time">2014 - 2015</div>
+                        </div><!--//upper-row-->
+                        <div class="company">Groopify, Valencia</div>
+                    </div><!--//meta-->
+                    <div class="details">
+                        <p>Development of the app (Android), web development (Ruby on Rails) and assembly / configuration and maintenance of all servers.</p>
+                    </div><!--//details-->
+                </div><!--//item-->
+                
+                <div class="item">
+                    <div class="meta">
+                        <div class="upper-row">
+                            <h3 class="job-title">Full Stack Developer</h3>
+                            <div class="time">2014</div>
+                        </div><!--//upper-row-->
+                        <div class="company">Innovega, Salamanca</div>
+                    </div><!--//meta-->
+                    <div class="details">
+                        <p>Development of applications in Ruby on Rails.</p>  
+                    </div><!--//details-->
+                </div><!--//item-->
+                
+                <div class="item">
+                    <div class="meta">
+                        <div class="upper-row">
+                            <h3 class="job-title">Computer teacher/Technical assistance</h3>
+                            <div class="time">2009 - 2012</div>
+                        </div><!--//upper-row-->
+                        <div class="company">ARSA, Salamanca</div>
+                    </div><!--//meta-->
+                    <div class="details">
+                        <p>I worked on the following tasks:</p>  
+                        <p> - Computer teacher for patients of the association (at different levels).</p>  
+                        <p> - Design, programming and maintenance of the website of the center.</p>  
+                        <p> - Installation and maintenance of the association's computer network, as well as its equipment.</p> 
+                    </div><!--//details-->
+                </div><!--//item-->
+
+            </section><!--//section-->
+
+            <section class="section projects-section">
+                <h2 class="section-title"><i class="fa fa-archive"></i>Projects</h2>
+                <div class="intro">
+                    <p>This are my open source libraries/projects:</p>
+                </div><!--//intro-->
+                <div class="item">
+                    <span class="project-title"><a href="https://github.com/luisinder/Blowfish_Hash_Generator">Blowfish Hash Generator</a></span> - <span class="project-tagline">A simple script that generate a hash using the blowfish algorithm.</span>
+
+                </div><!--//item-->
+                <div class="item">
+                    <span class="project-title"><a href="https://github.com/luisinder/remote-port-middleware" target="_blank">Client IP address middleware</a></span> - 
+                    <span class="project-tagline">PSR-7 Middleware that determines the client remote port and stores it as an ServerRequest attribute called remotePort.</span>
+                </div><!--//item-->
+                <div class="item">
+                    <span class="project-title"><a href="https://github.com/luisinder/ip-control-middleware" target="_blank">IP Control Middleware</a></span> - <span class="project-tagline">Middleware to control the IPs that have access to the application.</span>
+                </div><!--//item-->
+                <div class="item">
+                    <span class="project-title"><a href="https://github.com/luisinder/maintenance-middleware" target="_blank">Maintenance Middleware</a></span> - <span class="project-tagline">Slim 3 middleware that returns an error when maintenance mode is activated.</span>
+                </div><!--//item-->
+                <div class="item">
+                    <span class="project-title"><a href="https://github.com/luisinder/IpTablesConfigurator" target="_blank">IpTablesConfigurator</a></span> - <span class="project-tagline">Shell script for configure Iptables firewall. The menu and the messages are written in spanish.</span>
+                </div><!--//item-->
+                <div class="item">
+                    <span class="project-title"><a href="https://github.com/luisinder/NetworkServices" target="_blank">NetworkServices</a></span> - <span class="project-tagline">Shell script for install and configure DHCP and DNS services in a Ubuntu server. The menu and the messages are written in spanish.</span>
+                </div><!--//item-->
+            </section><!--//section-->
+
+            <section class="skills-section section">
+                <h2 class="section-title"><i class="fa fa-rocket"></i>Skills &amp; Proficiency</h2>
+                <div class="skillset">        
+                    <div class="item">
+                        <h3 class="level-title">System Administration</h3>
+                        <div class="level-bar">
+                            <div class="level-bar-inner" data-level="98%">
+                            </div>                                      
+                        </div><!--//level-bar-->                                 
+                    </div><!--//item-->
+
+                    <div class="item">
+                        <h3 class="level-title">PHP</h3>
+                        <div class="level-bar">
+                            <div class="level-bar-inner" data-level="90%">
+                            </div>                                      
+                        </div><!--//level-bar-->                                 
+                    </div><!--//item-->
+
+                    <div class="item">
+                        <h3 class="level-title">Networks</h3>
+                        <div class="level-bar">
+                            <div class="level-bar-inner" data-level="85%">
+                            </div>                                      
+                        </div><!--//level-bar-->                                 
+                    </div><!--//item-->
+
+                    <div class="item">
+                        <h3 class="level-title">HTML5 &amp; CSS</h3>
+                        <div class="level-bar">
+                            <div class="level-bar-inner" data-level="80%">
+                            </div>                                      
+                        </div><!--//level-bar-->                                 
+                    </div><!--//item-->
+
+                    <div class="item">
+                        <h3 class="level-title">JavaScript</h3>
+                        <div class="level-bar">
+                            <div class="level-bar-inner" data-level="70%">
+                            </div>                                      
+                        </div><!--//level-bar-->                                 
+                    </div><!--//item-->
+
+                    <div class="item">
+                        <h3 class="level-title">Ruby on Rails</h3>
+                        <div class="level-bar">
+                            <div class="level-bar-inner" data-level="65%">
+                            </div>                                      
+                        </div><!--//level-bar-->                                 
+                    </div><!--//item-->
+
+                    <div class="item">
+                        <h3 class="level-title">Android development</h3>
+                        <div class="level-bar">
+                            <div class="level-bar-inner" data-level="50%">
+                            </div>                                      
+                        </div><!--//level-bar-->                                 
+                    </div><!--//item-->
+
+                </div>  
+            </section><!--//skills-section-->
+
+        </div><!--//main-body-->
+    </div>
+
+    <footer class="footer">
+    </footer><!--//footer-->
+
+    <!-- Javascript -->          
+    <script type="text/javascript" src="assets/plugins/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>    
+    <!-- custom js -->
+    <script type="text/javascript" src="assets/js/main.js"></script>            
+</body>
+</html> 
+
